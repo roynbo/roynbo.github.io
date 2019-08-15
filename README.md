@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### 我的博客
 
-You can use the [editor on GitHub](https://github.com/roynbo/roynbo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+地址：[http://yansu.org](http://yansu.org)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 安装说明
 
-### Markdown
+1. fork库到自己的github
+2. 修改名字为：`username.github.io`
+3. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
+4. 修改CNAME，或者删掉这个文件，使用默认域名
+5. 修改`_config.yml`配置项
+6. It's done!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 分支说明
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roynbo/roynbo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 三栏布局（master分支，基于[3-Jekyll](https://github.com/P233/3-Jekyll)）
+- 三栏布局 (bootstrap-based分支，基于Bootstrap)
+- 单栏布局（first-ui分支，基于Bootstrap）
