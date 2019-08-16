@@ -4,10 +4,10 @@
     <title>爱吃汤圆的波波茶</title>
     <description>波神的博客
 </description>
-    <link>http://localhost:4000https://roynbo.github.io//</link>
-    <atom:link href="http://localhost:4000https://roynbo.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Aug 2019 15:58:14 +0800</pubDate>
-    <lastBuildDate>Fri, 16 Aug 2019 15:58:14 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 Aug 2019 16:17:25 +0800</pubDate>
+    <lastBuildDate>Fri, 16 Aug 2019 16:17:25 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 09 Mar 2015 06:21:49 +0800</pubDate>
-        <link>http://localhost:4000https://roynbo.github.io//jekyll/update/2015/03/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000https://roynbo.github.io//jekyll/update/2015/03/09/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/jekyll/update/2015/03/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/03/09/welcome-to-jekyll.html</guid>
         
         <category>Jekyll</category>
         
