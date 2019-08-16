@@ -1,7 +1,3 @@
----
-layout: null
----
-
 $(function() {
   var toc     = $('.toc-link'),
       sidebar = $('#sidebar'),
@@ -17,13 +13,7 @@ $(function() {
     }).attr('target', '_blank');
 
     // discus comment.
-    {% if site.disqus_shortname %}
-    (function() {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//{{ site.disqus_shortname }}' + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-    {% endif %}
+    
 
     // your scripts
   };
@@ -50,10 +40,7 @@ $(function() {
       NProgress.done();
       main.scrollTop(0).addClass('fadeIn');
       menu.add(sidebar).removeClass('open');
-      {% if site.google_analytics %}
-      ga('set', 'location', window.location.href);
-      ga('send', 'pageview');
-      {% endif %}
+      
     }
   });
 
